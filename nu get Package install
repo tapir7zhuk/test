@@ -1,0 +1,14 @@
+Install-Package Microsoft.EntityFrameworkCore -Version 8.0.0
+
+Install-Package Microsoft.EntityFrameworkCore.Design -Version 8.0.0
+
+Install-Package Microsoft.EntityFrameworkCore.Tools -Version 8.0.0
+
+Install-Package Microsoft.EntityFrameworkCore.SqlServer -Version 8.0.0
+
+Install-Package Microsoft.Extensions.Hosting -Version 8.0.0
+
+Install-Package Microsoft.Extensions.Configuration -Version 8.0.0
+
+Install-Package Microsoft.Extensions.DependencyInjection -Version 8.0.0
+
